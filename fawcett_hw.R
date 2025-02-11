@@ -5,3 +5,5 @@ random_numbers
 
 meanvalue <- mean(random_numbers)
 meanvalue
+
+sd_value <- sd(random_numbers)
